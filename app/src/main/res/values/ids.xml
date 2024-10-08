@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner" type="id" />
+    <item name="tvWelcomeMessage" type="id" />
+    <item name="rgSemana" type="id" />
+</resources>
